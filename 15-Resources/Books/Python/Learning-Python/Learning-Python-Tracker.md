@@ -48,7 +48,7 @@ This document serves as a **reading tracker**, **progress dashboard**, and **lea
 |:-:|---------|:---:|:----:|:---:|:--------:|:--------:|
 | ⬜ | A Python Q&A Session | ✅ | ✅ | ✅ | ⬜ | ⬜ |
 | ⬜ | How Python Runs Programs | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| ⬜ | How You Run Programs | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | How You Run Programs | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
 
 ---
 
@@ -56,7 +56,7 @@ This document serves as a **reading tracker**, **progress dashboard**, and **lea
 
 | ✓ | Chapter | Read | Notes | Code | Practice | Revision |
 |:-:|---------|:---:|:----:|:---:|:--------:|:--------:|
-| ⬜ | Introducing Python Object Types | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | Introducing Python Object Types | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
 | ⬜ | Numbers | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | The Dynamic Typing Interlude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | Strings | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -149,7 +149,8 @@ This document serves as a **reading tracker**, **progress dashboard**, and **lea
 | Date | Part | Chapter | Notes |
 |------|------|----------|---------|
 | 2026-7-28 | Part I | A Python Q&A Session | ✅ |
-| 2026-7-29 | Part II | How Python Runs Programs | ✅ |
+| 2026-7-29 | Part I | How Python Runs Programs | ✅ |
+| 2026-8-1 | Part I | How You Run Programs | 🟡 |
 
 ---
 
