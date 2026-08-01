@@ -47,7 +47,7 @@ This document serves as my **reading tracker**, **progress dashboard**, and **le
 
 | ✓ | Chapter | Read | Notes | Code | Practice | Revision |
 |:-:|---------|:---:|:----:|:---:|:--------:|:--------:|
-| ⬜ | The Python Data Model | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 🟡 | The Python Data Model | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
 | ⬜ | An Array of Sequences | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | Dictionaries and Sets | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | Unicode Text Versus Bytes | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -106,7 +106,7 @@ This document serves as my **reading tracker**, **progress dashboard**, and **le
 
 | Date | Part | Chapter | Notes |
 |------|------|----------|------|
-| YYYY-MM-DD | Part I | The Python Data Model | |
+| 2026-08-1 | Part I | The Python Data Model | 🟡 |
 
 ---
 
