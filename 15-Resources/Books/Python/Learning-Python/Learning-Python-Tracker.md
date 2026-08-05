@@ -57,7 +57,7 @@ This document serves as a **reading tracker**, **progress dashboard**, and **lea
 | ✓ | Chapter | Read | Notes | Code | Practice | Revision |
 |:-:|---------|:---:|:----:|:---:|:--------:|:--------:|
 | ⬜ | Introducing Python Object Types | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
-| ⬜ | Numbers | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | Numbers | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
 | ⬜ | The Dynamic Typing Interlude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | Strings | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | Lists and Dictionaries | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
