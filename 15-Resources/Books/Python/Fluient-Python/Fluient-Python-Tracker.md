@@ -48,7 +48,7 @@ This document serves as my **reading tracker**, **progress dashboard**, and **le
 | ✓ | Chapter | Read | Notes | Code | Practice | Revision |
 |:-:|---------|:---:|:----:|:---:|:--------:|:--------:|
 | 🟡 | The Python Data Model | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
-| ⬜ | An Array of Sequences | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | An Array of Sequences | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
 | ⬜ | Dictionaries and Sets | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | Unicode Text Versus Bytes | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | Data Class Builders | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
