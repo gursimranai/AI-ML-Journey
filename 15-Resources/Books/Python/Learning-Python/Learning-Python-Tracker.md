@@ -59,9 +59,9 @@ This document serves as a **reading tracker**, **progress dashboard**, and **lea
 | ⬜ | Introducing Python Object Types | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
 | ⬜ | Numbers | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
 | ⬜ | The Dynamic Typing Interlude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| ⬜ | Strings | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| ⬜ | Lists and Dictionaries | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| ⬜ | Tuples, Files, and Everything Else | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | Strings | 🟡 | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | Lists and Dictionaries | 🟡 | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | Tuples, Files, and Everything Else | 🟡 | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ---
 
