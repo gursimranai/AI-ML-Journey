@@ -14,7 +14,7 @@ through professional notes, projects, and practical implementations.
 ![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/Complete-AI-ML-Journey?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/USERNAME/Complete-AI-ML-Journey?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/USERNAME/Complete-AI-ML-Journey?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 </div>
 
@@ -329,7 +329,7 @@ It motivates me to continue improving the content and helps others discover the 
 
 # 📜 License
 
-This project is licensed under the MIT License.
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 ---
 
