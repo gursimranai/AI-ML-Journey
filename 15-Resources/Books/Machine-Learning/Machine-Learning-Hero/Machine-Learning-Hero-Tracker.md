@@ -27,9 +27,9 @@
 
 ### 1.1 Introduction to Machine Learning
 
-- [ ] 1.1.1 The Need for Machine Learning
-- [ ] 1.1.2 Types of Machine Learning
-- [ ] 1.1.3 Key Concepts in Machine Learning
+- [⬜] 1.1.1 The Need for Machine Learning
+- [⬜] 1.1.2 Types of Machine Learning
+- [⬜] 1.1.3 Key Concepts in Machine Learning
 
 ### 1.2 Role of Machine Learning in Modern Software Development
 
@@ -383,15 +383,15 @@
 
 ### 🏆 Overall
 
-`░░░░░░░░░░░░░░░░░░░░` **0%**
+`░░░░░░░░░░░░░░░░░░░` **0%**
 
 ---
 
 # 📝 Learning Log
 
-| 📅 Date | 📖 Chapter | 🎯 Topic | 📊 Progress |
-|---|---|---|---|
-| — | — | — | — |
+| 📅 Date | 📖 Chapter | 📊 Progress |
+|---|---|---|
+| 2026-08-11 | Chapter-1 | ⬜ |
 
 ---
 
