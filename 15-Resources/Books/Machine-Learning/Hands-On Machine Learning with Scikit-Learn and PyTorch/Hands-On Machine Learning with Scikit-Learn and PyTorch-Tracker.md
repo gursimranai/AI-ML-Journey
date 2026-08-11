@@ -25,7 +25,7 @@
 
 # 🟢 Part 1 — The Fundamentals of ML
 
-- [ ] **01 · The Machine Learning Landscape**
+- [⬜] **01 · The Machine Learning Landscape**
 - [ ] **02 · End-to-End Machine Learning Project**
 - [ ] **03 · Classification**
 - [ ] **04 · Training Models**
