@@ -10,7 +10,7 @@
 
 | Section                                 | Status        |
 | --------------------------------------- | ------------- |
-| Chapter 1 — Introduction to AI & ML     | ⬜ Not Started |
+| Chapter 1 — Introduction to AI & ML     | ✅ Completed |
 | Chapter 2 — Python for Machine Learning | ⬜ Not Started |
 | Chapter 3 — Working with Data           | ⬜ Not Started |
 | Chapter 4 — Supervised Learning         | ⬜ Not Started |
@@ -31,24 +31,24 @@
 
 ### 📚 Topics
 
-* [ ] What is Artificial Intelligence?
-* [ ] Understanding Machine Learning Concepts
-* [ ] Why Python is Perfect for AI and ML
-* [ ] Setting Up Python for ML Development
+* [✅] What is Artificial Intelligence?
+* [✅] Understanding Machine Learning Concepts
+* [✅] Why Python is Perfect for AI and ML
+* [✅] Setting Up Python for ML Development
 
-  * [ ] Anaconda
-  * [ ] Jupyter Notebook
-  * [ ] Python Environment
-  * [ ] Required ML Tools
+  * [✅] Anaconda
+  * [✅] Jupyter Notebook
+  * [✅] Python Environment
+  * [✅] Required ML Tools
 
 ### 🧪 Practice
 
-* [ ] Set up Python environment
-* [ ] Install required libraries
-* [ ] Create first Jupyter Notebook
-* [ ] Understand AI vs ML vs Deep Learning
+* [✅] Set up Python environment
+* [✅] Install required libraries
+* [✅] Create first Jupyter Notebook
+* [✅] Understand AI vs ML vs Deep Learning
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
