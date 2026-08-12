@@ -11,7 +11,7 @@
 | Section                                 | Status        |
 | --------------------------------------- | ------------- |
 | Chapter 1 — Introduction to AI & ML     | ✅ Completed |
-| Chapter 2 — Python for Machine Learning | ⬜ Not Started |
+| Chapter 2 — Python for Machine Learning | ✅ Completed |
 | Chapter 3 — Working with Data           | ⬜ Not Started |
 | Chapter 4 — Supervised Learning         | ⬜ Not Started |
 | Chapter 5 — Unsupervised Learning       | ⬜ Not Started |
@@ -56,22 +56,22 @@
 
 ### 📚 Topics
 
-* [ ] Python Basics for AI
-* [ ] Python Libraries and Tools
-* [ ] Introduction to NumPy
-* [ ] Introduction to Pandas
-* [ ] Introduction to Matplotlib
-* [ ] Writing Your First Python Script for Data Analysis
+* [✅] Python Basics for AI
+* [✅] Python Libraries and Tools
+* [✅] Introduction to NumPy
+* [✅] Introduction to Pandas
+* [✅] Introduction to Matplotlib
+* [✅] Writing Your First Python Script for Data Analysis
 
 ### 🧪 Practice
 
-* [ ] NumPy array operations
-* [ ] Pandas DataFrame operations
-* [ ] Basic data analysis
-* [ ] Create first Matplotlib visualization
-* [ ] Build a small data-analysis script
+* [✅] NumPy array operations
+* [✅] Pandas DataFrame operations
+* [✅] Basic data analysis
+* [✅] Create first Matplotlib visualization
+* [✅] Build a small data-analysis script
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
