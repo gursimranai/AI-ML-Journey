@@ -71,10 +71,10 @@ This document serves as a **reading tracker**, **progress dashboard**, and **lea
 |:-:|---------|:---:|:----:|:---:|:--------:|:--------:|
 | ⬜ | Introducing Python Statements | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | Assignments, Expressions, and print | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| ⬜ | if Tests and Syntax Rules | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| ⬜ | while and for Loops | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | if Tests and Syntax Rules | 🟡 | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | while and for Loops | 🟡 | ⬜ | ⬜ | ⬜ | ⬜ |
 | ⬜ | The Documentation Interlude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| ⬜ | Iterations and Comprehensions | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| ⬜ | Iterations and Comprehensions | 🟡 | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ---
 
