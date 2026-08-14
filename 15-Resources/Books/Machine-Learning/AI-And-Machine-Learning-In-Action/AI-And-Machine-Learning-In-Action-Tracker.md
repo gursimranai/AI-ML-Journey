@@ -12,7 +12,7 @@
 | --------------------------------------- | ------------- |
 | Chapter 1 — Introduction to AI & ML     | ✅ Completed |
 | Chapter 2 — Python for Machine Learning | ✅ Completed |
-| Chapter 3 — Working with Data           | ⬜ Not Started |
+| Chapter 3 — Working with Data           | 🟡 In progress |
 | Chapter 4 — Supervised Learning         | ⬜ Not Started |
 | Chapter 5 — Unsupervised Learning       | ⬜ Not Started |
 | Chapter 6 — Deep Learning               | ⬜ Not Started |
@@ -23,7 +23,7 @@
 | Chapter 11 — End-to-End Projects        | ⬜ Not Started |
 | Chapter 12 — Resources                  | ⬜ Not Started |
 
-**Overall:** `0 / 12 Chapters Completed`
+**Overall:** `2 / 12 Chapters Completed`
 
 ---
 
@@ -79,17 +79,17 @@
 
 ### 📚 Topics
 
-* [ ] Loading Datasets with Pandas
-* [ ] Data Cleaning and Preprocessing in Python
-* [ ] Feature Engineering with Scikit-Learn
-* [ ] Data Visualization with Matplotlib
-* [ ] Data Visualization with Seaborn
+* [✅] Loading Datasets with Pandas
+* [✅] Data Cleaning and Preprocessing in Python
+* [✅] Feature Engineering with Scikit-Learn
+* [✅] Data Visualization with Matplotlib
+* [✅] Data Visualization with Seaborn
 
 ### 🧪 Practice
 
-* [ ] Load CSV dataset
-* [ ] Handle missing values
-* [ ] Remove duplicate data
+* [✅] Load CSV dataset
+* [✅] Handle missing values
+* [✅] Remove duplicate data
 * [ ] Handle categorical variables
 * [ ] Feature scaling
 * [ ] Feature engineering
