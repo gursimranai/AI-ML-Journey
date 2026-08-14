@@ -90,7 +90,7 @@
 * [✅] Load CSV dataset
 * [✅] Handle missing values
 * [✅] Remove duplicate data
-* [ ] Handle categorical variables
+* [✅] Handle categorical variables
 * [ ] Feature scaling
 * [ ] Feature engineering
 * [ ] Create statistical visualizations
@@ -549,6 +549,6 @@ A chapter should only be marked **✅ Completed** when:
 
 The objective of this tracker is not simply to finish the book, but to turn every chapter into **practical AI/ML skills and portfolio-ready work**.
 
-**Book Progress:** `0%`
+**Book Progress:** `30%`
 **Projects:** `0 / 10`
 **Status:** 🟡 In Progress
