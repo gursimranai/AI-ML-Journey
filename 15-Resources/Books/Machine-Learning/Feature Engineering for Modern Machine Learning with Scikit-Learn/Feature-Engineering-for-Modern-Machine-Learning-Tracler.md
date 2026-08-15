@@ -30,8 +30,8 @@
 
 ## Topics
 
-* [ ] End-to-End Healthcare Data Analysis
-* [ ] Data Understanding & Preparation
+* [✅] End-to-End Healthcare Data Analysis
+* [✅] Data Understanding & Preparation
 * [ ] Exploratory Data Analysis (EDA)
 * [ ] Retail Data Analysis
 * [ ] Customer Segmentation
@@ -42,7 +42,7 @@
 
 ## Exercises
 
-* [ ] Handling Missing Values
+* [✅] Handling Missing Values
 * [ ] Encoding Categorical Variables
 * [ ] Standardizing Features
 * [ ] Customer Segmentation with K-Means
