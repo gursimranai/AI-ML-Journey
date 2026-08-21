@@ -9,12 +9,11 @@
 
 | Metric           |      Progress |
 | ---------------- | ------------: |
-| Chapters         |         0 / 8 |
-| Major Topics     |       0 / 60+ |
+| Chapters         |         1 / 8 |
 | Use Cases        |         0 / 3 |
 | Projects         |         0 / 6 |
 | Overall Progress |            0% |
-| Book Status      | ⬜ Not Started |
+| Book Status      | 🟡 In Progress |
 
 ### Status Legend
 
@@ -32,19 +31,19 @@
 
 ### Foundations
 
-* [ ] Aligning on Nomenclature
-* [ ] Machine Learning Terminology
-* [ ] Learning to Google
-* [ ] Learning to Prompt
-* [ ] What Can You Find with Google?
-* [ ] Prompting
-* [ ] Using Generative AI for Learning
-* [ ] Predictions for Generative AI's Impact on ML
-* [ ] Summary
+* [🟢] Aligning on Nomenclature
+* [🟢] Machine Learning Terminology
+* [🟢] Learning to Google
+* [🟢] Learning to Prompt
+* [🟢] What Can You Find with Google?
+* [🟢] Prompting
+* [🟢] Using Generative AI for Learning
+* [🟢] Predictions for Generative AI's Impact on ML
+* [🟢] Summary
 
 ### 🎯 Chapter Outcome
 
-* [ ] Understand common ML terminology
+* [🟢] Understand common ML terminology
 * [ ] Learn effective technical search strategies
 * [ ] Learn how to use AI tools responsibly for ML learning
 * [ ] Understand how GenAI may affect ML workflows
@@ -55,15 +54,15 @@
 
 # Chapter 2 — Getting Started
 
-**Status:** ⬜ Not Started
+**Status:** 🟡 In Progress
 
 ## GitHub
 
-* [ ] Creating a GitHub Account
-* [ ] GitHub Basics
-* [ ] GitHub in This Book
-* [ ] Repository Basics
-* [ ] Version Control Basics
+* [🟢] Creating a GitHub Account
+* [🟢] GitHub Basics
+* [🟢] GitHub in This Book
+* [🟢] Repository Basics
+* [🟢] Version Control Basics
 
 ## Anaconda
 
@@ -75,8 +74,8 @@
 
 ### 🎯 Chapter Outcome
 
-* [ ] Set up GitHub
-* [ ] Understand repositories
+* [🟢] Set up GitHub
+* [🟢] Understand repositories
 * [ ] Set up Anaconda
 * [ ] Create an ML environment
 * [ ] Organize datasets and projects
