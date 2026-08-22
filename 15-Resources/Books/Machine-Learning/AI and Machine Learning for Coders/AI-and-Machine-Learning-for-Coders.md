@@ -30,20 +30,20 @@
 
 **Status:** ⬜ Not Started
 
-* [ ] What Is Machine Learning?
-* [ ] Limitations of Traditional Programming
-* [ ] From Programming to Learning
-* [ ] What Is TensorFlow?
-* [ ] Using TensorFlow
-* [ ] Installing TensorFlow in Python
-* [ ] Using TensorFlow in PyCharm
-* [ ] Using TensorFlow in Google Colab
-* [ ] Getting Started with Machine Learning
-* [ ] Seeing What the Network Learned
-* [ ] Summary
-* [ ] Practice / Experiment
-* [ ] Revision
-* [ ] Interview Questions
+* [🟡] What Is Machine Learning?
+* [🟡] Limitations of Traditional Programming
+* [🟡] From Programming to Learning
+* [🟡] What Is TensorFlow?
+* [🟡] Using TensorFlow
+* [🟡] Installing TensorFlow in Python
+* [  ] Using TensorFlow in PyCharm
+* [  ] Using TensorFlow in Google Colab
+* [  ] Getting Started with Machine Learning
+* [  ] Seeing What the Network Learned
+* [  ] Summary
+* [  ] Practice / Experiment
+* [  ] Revision
+* [  ] Interview Questions
 
 **Project:** Build a basic TensorFlow neural network.
 
