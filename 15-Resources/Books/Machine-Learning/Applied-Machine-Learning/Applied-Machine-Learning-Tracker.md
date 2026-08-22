@@ -44,9 +44,9 @@
 ### 🎯 Chapter Outcome
 
 * [🟢] Understand common ML terminology
-* [ ] Learn effective technical search strategies
-* [ ] Learn how to use AI tools responsibly for ML learning
-* [ ] Understand how GenAI may affect ML workflows
+* [🟡] Learn effective technical search strategies
+* [🟡] Learn how to use AI tools responsibly for ML learning
+* [🟡] Understand how GenAI may affect ML workflows
 
 **Mini Project:** Create a personal ML research/prompting workflow.
 
@@ -66,19 +66,19 @@
 
 ## Anaconda
 
-* [ ] Creating an Anaconda Account
-* [ ] Creating Projects
-* [ ] Uploading Data
-* [ ] Anaconda in This Book
-* [ ] Environment Management
+* [🟡] Creating an Anaconda Account
+* [🟡] Creating Projects
+* [🟡] Uploading Data
+* [🟡] Anaconda in This Book
+* [🟡] Environment Management
 
 ### 🎯 Chapter Outcome
 
 * [🟢] Set up GitHub
 * [🟢] Understand repositories
-* [ ] Set up Anaconda
-* [ ] Create an ML environment
-* [ ] Organize datasets and projects
+* [🟡] Set up Anaconda
+* [🟡] Create an ML environment
+* [🟡] Organize datasets and projects
 
 **Mini Project:** Create an ML project repository with an Anaconda environment.
 
