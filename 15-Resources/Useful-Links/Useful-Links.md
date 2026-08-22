@@ -81,6 +81,16 @@ This section will be updated as I discover and verify more useful learning resou
 > **Goal:** Keep a small collection of high-value resources rather than collecting hundreds of random links.
 
 ---
+# 🔗 Useful Links
+
+## 📐 Mathematics
+
+* **[Matrix — Wolfram MathWorld](https://mathworld.wolfram.com/Matrix.html)**
+  Comprehensive reference for matrices, including definitions, properties, operations, and related mathematical concepts.
+
+
+
+---
 
 ## ⚖️ Attribution
 
