@@ -32,7 +32,7 @@
 
 * [✅] End-to-End Healthcare Data Analysis
 * [✅] Data Understanding & Preparation
-* [ ] Exploratory Data Analysis (EDA)
+* [🟡] Exploratory Data Analysis (EDA)
 * [ ] Retail Data Analysis
 * [ ] Customer Segmentation
 * [ ] K-Means Clustering
@@ -43,8 +43,8 @@
 ## Exercises
 
 * [✅] Handling Missing Values
-* [ ] Encoding Categorical Variables
-* [ ] Standardizing Features
+* [🟡] Encoding Categorical Variables
+* [🟡] Standardizing Features
 * [ ] Customer Segmentation with K-Means
 * [ ] Selecting Optimal K
 
@@ -60,10 +60,10 @@
 
 ## Topics
 
-* [ ] Customer Churn Prediction
-* [ ] Dataset Understanding
-* [ ] Creating Predictive Features
-* [ ] Visit Frequency Features
+* [🟡] Customer Churn Prediction
+* [🟡] Dataset Understanding
+* [🟡] Creating Predictive Features
+* [🟡] Visit Frequency Features
 * [ ] Time Between Visits
 * [ ] Missed Appointment Rate
 * [ ] Classification Features
