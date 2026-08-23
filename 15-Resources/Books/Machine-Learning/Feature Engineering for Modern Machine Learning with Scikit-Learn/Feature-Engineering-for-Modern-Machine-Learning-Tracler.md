@@ -43,7 +43,7 @@
 ## Exercises
 
 * [✅] Handling Missing Values
-* [🟡] Encoding Categorical Variables
+* [✅] Encoding Categorical Variables
 * [🟡] Standardizing Features
 * [ ] Customer Segmentation with K-Means
 * [ ] Selecting Optimal K
