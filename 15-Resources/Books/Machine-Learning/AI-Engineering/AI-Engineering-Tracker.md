@@ -13,7 +13,7 @@
 | Major Topics     |       0 / 80+ |
 | Projects         |        0 / 10 |
 | Overall Progress |            0% |
-| Book Status      | ⬜ Not Started |
+| Book Status      | 🟡 In Progress |
 
 ### Status Legend
 
@@ -33,12 +33,12 @@
 
 ### AI Engineering Fundamentals
 
-* [ ] The Rise of AI Engineering
-* [ ] Language Models
-* [ ] Large Language Models
-* [ ] Foundation Models
-* [ ] AI Engineering
-* [ ] Foundation Model Use Cases
+* [🟡] The Rise of AI Engineering
+* [🟡] Language Models
+* [🟡] Large Language Models
+* [🟡] Foundation Models
+* [🟡] AI Engineering
+* [🟡] Foundation Model Use Cases
 
 ### AI Application Use Cases
 
