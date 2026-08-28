@@ -28,7 +28,7 @@
 
 ## Chapter 1 — Introduction to TensorFlow
 
-**Status:** ⬜ Not Started
+**Status:** 🟡 In Progress
 
 * [🟡] What Is Machine Learning?
 * [🟡] Limitations of Traditional Programming
