@@ -13,7 +13,7 @@
 | Chapter 1 — Introduction to AI & ML     | ✅ Completed |
 | Chapter 2 — Python for Machine Learning | ✅ Completed |
 | Chapter 3 — Working with Data           | 🟡 In progress |
-| Chapter 4 — Supervised Learning         | ⬜ Not Started |
+| Chapter 4 — Supervised Learning         | 🟡 In progress |
 | Chapter 5 — Unsupervised Learning       | ⬜ Not Started |
 | Chapter 6 — Deep Learning               | ⬜ Not Started |
 | Chapter 7 — NLP                         | ⬜ Not Started |
@@ -91,10 +91,10 @@
 * [✅] Handle missing values
 * [✅] Remove duplicate data
 * [✅] Handle categorical variables
-* [ ] Feature scaling
-* [ ] Feature engineering
-* [ ] Create statistical visualizations
-* [ ] Perform exploratory data analysis
+* [🟡] Feature scaling
+* [🟡] Feature engineering
+* [🟡] Create statistical visualizations
+* [🟡] Perform exploratory data analysis
 
 ### 🚀 Mini Project
 
