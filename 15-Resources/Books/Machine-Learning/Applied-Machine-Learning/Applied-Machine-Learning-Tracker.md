@@ -86,8 +86,7 @@
 
 # Chapter 3 — Introduction to Our Use Cases
 
-**Status:** ⬜ Not Started
-
+**Status:** 🟡 Started
 ## 🏢 Business Problem Fundamentals
 
 * [ ] Importance of Understanding the Business Problem
