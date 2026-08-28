@@ -110,7 +110,7 @@ Complete the book while building practical EDA skills using Python, NumPy, Panda
 
 ### Chapter 4: Data Transformation
 
-**Status:** ⬜ Not Started
+**Status:** 🟡 Started
 
 #### Data Merging
 
