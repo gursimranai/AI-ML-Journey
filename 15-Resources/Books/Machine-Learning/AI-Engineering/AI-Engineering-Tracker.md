@@ -29,7 +29,7 @@
 
 ## Chapter 1 — Introduction to Building AI Applications with Foundation Models
 
-**Status:** ⬜ Not Started
+**Status:** 🟡 In Progress
 
 ### AI Engineering Fundamentals
 
