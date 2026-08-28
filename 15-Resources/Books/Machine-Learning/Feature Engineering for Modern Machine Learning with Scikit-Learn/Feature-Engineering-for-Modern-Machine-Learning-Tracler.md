@@ -33,9 +33,9 @@
 * [✅] End-to-End Healthcare Data Analysis
 * [✅] Data Understanding & Preparation
 * [🟡] Exploratory Data Analysis (EDA)
-* [ ] Retail Data Analysis
-* [ ] Customer Segmentation
-* [ ] K-Means Clustering
+* [🟡] Retail Data Analysis
+* [🟡] Customer Segmentation
+* [🟡] K-Means Clustering
 * [ ] Elbow Method
 * [ ] Cluster Interpretation
 * [ ] Best Practices
@@ -45,8 +45,8 @@
 * [✅] Handling Missing Values
 * [✅] Encoding Categorical Variables
 * [🟡] Standardizing Features
-* [ ] Customer Segmentation with K-Means
-* [ ] Selecting Optimal K
+* [🟡] Customer Segmentation with K-Means
+* [🟡] Selecting Optimal K
 
 ## Revision
 
