@@ -659,31 +659,6 @@ For important algorithms, I will follow:
 
 ---
 
-# 📝 Chapter Notes Template
-
-For every chapter, maintain:
-
-```text
-01-chapter-name/
-│
-├── README.md
-├── notes.md
-├── concepts.md
-├── algorithms.md
-├── exercises.md
-├── implementations/
-│   ├── algorithm_1.py
-│   └── algorithm_2.py
-│
-├── notebooks/
-│   └── experiments.ipynb
-│
-└── project/
-    └── README.md
-```
-
----
-
 # 📈 Learning Log
 
 | Date       | Chapter | Topic        | Implementation | Project     |
