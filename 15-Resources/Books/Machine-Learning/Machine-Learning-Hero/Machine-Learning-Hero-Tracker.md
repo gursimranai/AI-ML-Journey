@@ -367,58 +367,10 @@
 
 ---
 
-# 📈 Progress Tracker
-
-### 🟢 Foundations
-
-`░░░░░░░░░░░░░░░░░░░░` **0%**
-
-### 🟡 Classical Machine Learning
-
-`░░░░░░░░░░░░░░░░░░░░` **0%**
-
-### 🔵 Practical Projects
-
-`░░░░░░░░░░░░░░░░░░░░` **0%**
-
-### 🏆 Overall
-
-`░░░░░░░░░░░░░░░░░░░` **0%**
-
----
-
 # 📝 Learning Log
 
 | 📅 Date | 📖 Chapter | 📊 Progress |
 |---|---|---|
 | 2026-08-11 | Chapter-1 | ⬜ |
-
----
-
-# 💡 Key Takeaways
-
-### 🧠 Concepts
-
-- 
-- 
-- 
-
-### 💻 Code
-
-- 
-- 
-- 
-
-### 🔬 Experiments
-
-- 
-- 
-- 
-
-### ❓ Questions
-
-- 
-- 
-- 
 
 ---
