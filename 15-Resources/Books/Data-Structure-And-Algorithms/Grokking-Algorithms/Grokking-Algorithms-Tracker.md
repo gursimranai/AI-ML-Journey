@@ -95,11 +95,11 @@ For every chapter, follow:
 
 ### Topics
 
-* [ ] Introduction
-* [ ] What You'll Learn About Performance
-* [ ] What You'll Learn About Solving Problems
-* [ ] Binary Search
-* [ ] A Better Way to Search
+* [🟨] Introduction
+* [🟨] What You'll Learn About Performance
+* [🟨] What You'll Learn About Solving Problems
+* [🟨] Binary Search
+* [🟨] A Better Way to Search
 * [ ] Running Time
 * [ ] Big O Notation
 * [ ] Algorithm Running Times Grow at Different Rates
