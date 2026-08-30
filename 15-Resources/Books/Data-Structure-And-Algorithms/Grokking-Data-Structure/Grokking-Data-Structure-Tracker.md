@@ -93,11 +93,11 @@ For every chapter:
 
 ### Topics
 
-* [ ] Why You Should Learn About Data Structures
-* [ ] What Is a Data Structure?
-* [ ] Why Data Structures Matter
-* [ ] Choosing the Right Data Structure
-* [ ] Data Structure Trade-offs
+* [🟨] Why You Should Learn About Data Structures
+* [🟨] What Is a Data Structure?
+* [🟨] Why Data Structures Matter
+* [🟨] Choosing the Right Data Structure
+* [🟨] Data Structure Trade-offs
 
 ### 💻 Learning Checklist
 
