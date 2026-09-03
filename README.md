@@ -226,6 +226,8 @@ Complete-AI-ML-Journey/
 | Computer Vision | ⏳ Planned |
 | Generative AI | ⏳ Planned |
 | MLOps | ⏳ Planned |
+| DSA | 🟡 In Progress |
+| Web-Development | 🟡 In Progress |
 
 ---
 
