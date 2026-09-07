@@ -217,7 +217,7 @@ Complete-AI-ML-Journey/
 | Section | Status |
 |----------|--------|
 | Python | 🟡 In Progress |
-| Mathematics | 🟡 In Progress |
+| Mathematics | 🟡 In Progress | 
 | NumPy | 🟡 In Progress |
 | Pandas | 🟡 In Progress |
 | Machine Learning | 🟡 In Progress |
