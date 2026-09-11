@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+
+<body>
+    <h1>Fitness Form</h1>
+    <form action="/process.php">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Your name here">
+        <br><br>
+
+        <label for="phone">Phone</label>
+        <input type="tel" id="phone" name="phone" placeholder="Your phone">
+        <br><br>
+
+        <label for="pass">Password</label>
+        <input type="password" id="pass" name="password" placeholder="Your password">
+        <br><br>
+
+
+        <label for="cpass">Confirm Password</label>
+        <input type="password" name="confirmpassword" id="cpass">
+        <br><br>
+
+        <p>Choose your Gender</p>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="gender">Male</label>
+
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="gender">Female</label>
+
+        <input type="radio" id="other" name="gender" value="other">
+        <label for="gender">Other</label>
+        <br><br>
+
+        <p>Choose your hobby</p>
+        <input type="checkbox" name="playing" id="playing" value="playing">
+        <label for="playing">Playing</label>
+
+        <input type="checkbox" name="singing" id="singing" value="singing">
+        <label for="singing">Singing</label>
+
+        <input type="checkbox" name="dancing" id="dancing" value="dancing">
+        <label for="dancing">Dancing</label>
+        <br><br>
+
+
+        <label for="city">Choose a city:</label>
+        <select id="city" name="city">
+            <option value="delhi">Delhi</option>
+            <option value="mumbai">Mumbai</option>
+            <option value="bangalore">Bangalore</option>
+        </select>
+
+
+        <br><br>
+        <label for="message">Your Message:</label><br>
+        <textarea name="description" rows="7" cols="144" id="description"></textarea>
+        <br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+
+</html>
