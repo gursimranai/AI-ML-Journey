@@ -33,10 +33,10 @@
 
 ### 1.2 Role of Machine Learning in Modern Software Development
 
-- [ ] 1.2.1 The Shift from Traditional Programming to Machine Learning
-- [ ] 1.2.2 Key Applications of Machine Learning in Software Development
-- [ ] 1.2.3 Machine Learning in the Software Development Lifecycle
-- [ ] 1.2.4 Why Every Developer Should Learn Machine Learning
+- [⬜] 1.2.1 The Shift from Traditional Programming to Machine Learning
+- [⬜] 1.2.2 Key Applications of Machine Learning in Software Development
+- [⬜] 1.2.3 Machine Learning in the Software Development Lifecycle
+- [⬜] 1.2.4 Why Every Developer Should Learn Machine Learning
 
 ### 1.3 AI and Machine Learning Trends in 2024
 
