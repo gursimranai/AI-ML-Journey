@@ -89,11 +89,11 @@
 **Status:** 🟡 Started
 ## 🏢 Business Problem Fundamentals
 
-* [ ] Importance of Understanding the Business Problem
-* [ ] Business Reviews
-* [ ] Definition of Success
-* [ ] Stakeholder Requirements
-* [ ] Translating Business Problems into ML Problems
+* [🟡] Importance of Understanding the Business Problem
+* [🟡] Business Reviews
+* [🟡] Definition of Success
+* [🟡] Stakeholder Requirements
+* [🟡] Translating Business Problems into ML Problems
 
 ---
 
