@@ -16,10 +16,10 @@ Complete the book while building practical EDA skills using Python, NumPy, Panda
 
 #### Topics
 
-* [ ] Understanding Data Science
-* [ ] Significance of EDA
-* [ ] Steps in EDA
-* [ ] Numerical Data
+* [🟡] Understanding Data Science
+* [🟡] Significance of EDA
+* [🟡] Steps in EDA
+* [🟡] Numerical Data
 
   * [ ] Discrete Data
   * [ ] Continuous Data
