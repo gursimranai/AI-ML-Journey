@@ -44,6 +44,6 @@ class Vector:
         y = self.y + other.y
         return Vector(x, y)
 
-    # Scalar multiplication method to multiply the vector by a scalar
+    # Scalar multiplication method to multiply the vector by a scalar 
     def __mul__(self, scalar):
         return Vector(self.x * scalar, self.y * scalar)
