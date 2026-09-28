@@ -1,3 +1,6 @@
 .virtual_documents/
 .ipynb_checkpoints/
 15-Resources/Other-Material/Sheriyans-AI-Notes/**/*.pdf
+
+*.exe
+
