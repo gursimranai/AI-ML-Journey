@@ -793,14 +793,15 @@ Output:
 
 Bitwise operators work directly with individual bits.
 
-| Operator | Meaning     |            |
-| -------- | ----------- | ---------- |
-| `&`      | Bitwise AND |            |
-| `        | `           | Bitwise OR |
-| `^`      | Bitwise XOR |            |
-| `~`      | Bitwise NOT |            |
-| `<<`     | Left shift  |            |
-| `>>`     | Right shift |            |
+| Operator | Meaning |
+| :--- | :--- |
+| `&` | Bitwise AND |
+| `\|` | Bitwise OR |
+| `^` | Bitwise XOR |
+| `~` | Bitwise NOT |
+| `<<` | Left shift |
+| `>>` | Right shift |
+
 
 Example:
 
