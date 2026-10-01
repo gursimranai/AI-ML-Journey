@@ -100,8 +100,8 @@ For every chapter, follow:
 * [🟨] What You'll Learn About Solving Problems
 * [🟨] Binary Search
 * [🟨] A Better Way to Search
-* [ ] Running Time
-* [ ] Big O Notation
+* [🟨] Running Time
+* [🟨] Big O Notation
 * [ ] Algorithm Running Times Grow at Different Rates
 * [ ] Visualizing Different Big O Run Times
 * [ ] Big O Establishes a Worst-Case Run Time
