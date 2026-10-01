@@ -46,9 +46,9 @@ This document serves as a **reading tracker**, **progress dashboard**, and **lea
 
 | ✓ | Chapter | Read | Notes | Code | Practice | Revision |
 |:-:|---------|:---:|:----:|:---:|:--------:|:--------:|
-| ⬜ | A Python Q&A Session | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| ⬜ | How Python Runs Programs | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| ⬜ | How You Run Programs | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
+| ✅ | A Python Q&A Session | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| ✅ | How Python Runs Programs | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| ✅ | How You Run Programs | ✅ | ✅ | ✅ | ✅ | ⬜ |
 
 ---
 
@@ -150,8 +150,8 @@ This document serves as a **reading tracker**, **progress dashboard**, and **lea
 |------|------|----------|---------|
 | 2026-7-28 | Part I | A Python Q&A Session | ✅ |
 | 2026-7-29 | Part I | How Python Runs Programs | ✅ |
-| 2026-8-1 | Part I | How You Run Programs | 🟡 |
-
+| 2026-8-1 | Part I | How You Run Programs | ✅ |
+| 2026-10-1 | Part II | Introducing Python Object Types | 🟡 |
 ---
 
 # 💡 Key Takeaways
@@ -168,8 +168,8 @@ This document serves as a **reading tracker**, **progress dashboard**, and **lea
 
 | Repository Section | Status |
 |--------------------|:------:|
-| Python Fundamentals | ⬜ |
-| Control Flow | ⬜ |
+| Python Fundamentals | ✅ |
+| Control Flow | ✅ |
 | Functions | ⬜ |
 | Data Structures | ⬜ |
 | OOP | ⬜ |
