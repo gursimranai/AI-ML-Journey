@@ -101,9 +101,9 @@ For every chapter:
 
 ### 💻 Learning Checklist
 
-* [ ] Understand what a data structure is
-* [ ] Understand why data structures are needed
-* [ ] Understand data vs data structure
+* [🟨] Understand what a data structure is
+* [🟨] Understand why data structures are needed
+* [🟨] Understand data vs data structure
 * [ ] Understand operations on data structures
 * [ ] Understand trade-offs
 * [ ] Understand how data structures affect performance
