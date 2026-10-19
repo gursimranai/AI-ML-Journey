@@ -1,1409 +1,338 @@
-<div align="center">
+# 🚀 AI-ML-Journey
 
-# 🚀 Complete AI & ML Journey
+### My Journey from Programming Fundamentals to Artificial Intelligence and Machine Learning
 
-### From Programming Fundamentals to AI Engineering
+[![Learning](https://img.shields.io/badge/Journey-Work%20in%20Progress-orange)](#-learning-progress)
+[![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![License](https://img.shields.io/badge/License-See%20LICENSE-blue)](LICENSE)
 
-<p align="center">
-A structured, long-term learning repository documenting my journey across
-<strong>Python, Mathematics, Data Science, Machine Learning, Deep Learning,
-NLP, Computer Vision, Generative AI, MLOps, DSA, Web Development,
-C, C++, and Cybersecurity.</strong>
-</p>
+Welcome to **AI-ML-Journey** — my structured, hands-on learning repository documenting my progress in programming, mathematics, data science, machine learning, and artificial intelligence.
 
-<p align="center">
-Learn → Understand → Practice → Build → Document
-</p>
+This repository brings together my learning notes, code examples, Jupyter notebooks, exercises, datasets, useful resources, and practical projects. The goal is to understand concepts deeply, apply them through code, and build skills through consistent practice.
 
-<br>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/gursimranai/Complete-AI-ML-Journey?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/gursimranai/Complete-AI-ML-Journey?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/gursimranai/Complete-AI-ML-Journey?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/gursimranai/Complete-AI-ML-Journey?style=for-the-badge)
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-
-</div>
+> **Learn the concepts. Write the code. Solve problems. Build projects. Repeat.**
 
 ---
 
-# 📖 About This Repository
+## 📚 Table of Contents
 
-**Complete AI & ML Journey** is my long-term, open-source learning repository for building a strong foundation in programming, computer science, data, artificial intelligence, and software engineering.
-
-This repository is not just a collection of random notes or tutorials.
-
-It is designed as a structured knowledge base where concepts are learned progressively through:
-
-- 📚 Detailed notes
-- 🧠 Conceptual explanations
-- 💡 Intuition and examples
-- 💻 Practical implementations
-- 🧪 Exercises and practice
-- 🧩 Problem solving
-- 📊 Data analysis and visualization
-- 🤖 Machine learning experiments
-- 🚀 Projects
-- 📝 Revision material
-- 🎯 Interview preparation
-- 📖 References and resources
-
-The long-term goal is to develop the knowledge and practical skills required to become a strong **AI/ML Engineer and AI Engineer**, while also building the broader software engineering foundation required to create real-world systems.
+- [About the Repository](#-about-the-repository)
+- [Learning Goals](#-learning-goals)
+- [Repository Roadmap](#-repository-roadmap)
+- [How to Use This Repository](#-how-to-use-this-repository)
+- [Learning Methodology](#-learning-methodology)
+- [Learning Progress](#-learning-progress)
+- [Tools and Technologies](#️-tools-and-technologies)
+- [Getting Started](#-getting-started)
+- [Repository Standards](#-repository-standards)
+- [Datasets and Resources](#-datasets-and-resources)
+- [Projects](#-projects)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
-# 🎯 Repository Philosophy
+## 📌 About the Repository
 
-The learning approach followed throughout this repository is:
+AI-ML-Journey is a long-term learning project focused on developing strong foundations in computer science and progressing toward practical AI/ML engineering.
 
-```text
-Learn
-  ↓
-Understand
-  ↓
-Implement
-  ↓
-Practice
-  ↓
-Solve Problems
-  ↓
-Build Projects
-  ↓
-Document
-  ↓
-Revise
-  ↓
-Apply to Real-World Systems
+Instead of collecting resources without applying them, I aim to combine theory with implementation, experimentation, and problem-solving.
+
+### What you can find here
+
+- 📖 **Learning Notes:** Structured explanations of concepts, terminology, and important ideas.
+- 💻 **Code Examples:** Implementations that demonstrate how concepts work.
+- 📓 **Jupyter Notebooks:** Interactive notes, experiments, and data analysis.
+- 🧩 **Practice Problems:** Exercises to strengthen understanding and problem-solving.
+- 📊 **Datasets:** Dataset references, metadata, and data preparation resources.
+- 🛠️ **Projects:** Practical applications built while learning.
+- 🔗 **Resources:** Documentation, research papers, books, roadmaps, and useful links.
+- 📈 **Progress Tracking:** An evolving record of topics studied, practiced, and reviewed.
+
+This repository is continuously evolving. The presence of a folder indicates an area of the roadmap, not necessarily that all its content is finished.
+
+## 🎯 Learning Goals
+
+My primary goals are to:
+
+1. Build strong programming fundamentals using Python, C, and C++.
+2. Improve problem-solving skills through data structures and algorithms.
+3. Develop the mathematical foundation required for machine learning.
+4. Learn data analysis, preprocessing, exploratory data analysis, and visualization.
+5. Understand traditional machine learning algorithms and their limitations.
+6. Progress into deep learning, NLP, computer vision, and generative AI.
+7. Learn software development, testing, deployment, and MLOps fundamentals.
+8. Build meaningful, reproducible projects that demonstrate practical skills.
+9. Develop the habit of documenting, reviewing, and improving my work.
+
+---
+
+## 🗺️ Repository Roadmap
+
+The repository is divided into 20 numbered sections for easy navigation. The numbering provides a suggested learning sequence, although some topics can be studied in parallel.
+
+### 🧠 Core AI and Machine Learning
+
+| No. | Section | Description |
+|---|---|---|
+| 01 | [Python](01-Python/) | Python fundamentals, data structures, functions, modules, file handling, and advanced language concepts. |
+| 02 | [Mathematics](02-Mathematics/) | Algebra, linear algebra, calculus, probability, statistics, and optimization. |
+| 03 | [Libraries](03-Libraries/) | Python libraries for numerical computing, data analysis, visualization, and machine learning. |
+| 04 | [Data Science](04-Data-Science/) | Data collection, cleaning, preprocessing, EDA, visualization, and reporting. |
+| 05 | [Machine Learning](05-Machine-Learning/) | Supervised and unsupervised learning, feature engineering, evaluation, and model selection. |
+| 06 | [Deep Learning](06-Deep-Learning/) | Neural networks, training, architectures, and deep learning workflows. |
+| 07 | [Natural Language Processing](07-NLP/) | Text processing, NLP techniques, language models, and related applications. |
+| 08 | [Computer Vision](08-Computer-Vision/) | Image processing, visual recognition, and computer vision applications. |
+| 09 | [Generative AI](09-Generative-AI/) | Generative models, LLMs, prompting, retrieval, and AI application development. |
+| 10 | [MLOps](10-ML-Ops/) | Reproducibility, experiment tracking, model deployment, and monitoring. |
+
+### 🛠️ Projects and Learning Resources
+
+| No. | Section | Description |
+|---|---|---|
+| 11 | [Projects](11-Projects/) | Practical applications, experiments, and end-to-end projects. |
+| 12 | [Practice](12-Practice/) | Topic-wise exercises, coding challenges, and problem-solving practice. |
+| 13 | [Datasets](13-Datasets/) | Dataset references, metadata, acquisition instructions, and data preparation. |
+| 14 | [Assets](14-Assets/) | Diagrams, flowcharts, visualizations, screenshots, and reusable learning visuals. |
+| 15 | [Resources](15-Resources/) | Books, cheat sheets, interview questions, research papers, roadmaps, and useful links. |
+| 16 | [Environments](16-Environments/) | Python installation, Conda, virtual environments, Jupyter, and VS Code setup. |
+
+### 💻 Computer Science Foundations
+
+| No. | Section | Description |
+|---|---|---|
+| 17 | [Data Structures and Algorithms](17-Data-Structure-And-Algorithms/) | Complexity analysis, data structures, algorithms, problem-solving patterns, and interview practice. |
+| 18 | [Web Development](18-Web-Development/) | HTML, CSS, JavaScript, frontend, backend, APIs, databases, and deployment. |
+| 19 | [C++ Language](19-C++-Language/) | C++ syntax, programming concepts, object-oriented programming, and practice. |
+| 20 | [C Language](20-C-Language/) | C fundamentals, data types, control flow, functions, pointers, strings, and practice. |
+
+> **Navigation note:** These links assume your repository folders use the exact names shown. If your actual folder name differs, update the corresponding link to match it.
+
+---
+
+## 🧭 How to Use This Repository
+
+Whether you are learning a new concept or revising an old one, follow this approach:
+
+1. **Choose a topic** from the roadmap.
+2. **Read its README** to understand the concepts and structure.
+3. **Study the notes** and work through the examples.
+4. **Run the code** and experiment with different inputs.
+5. **Solve the exercises** without immediately checking the solutions.
+6. **Build a small application** when the topic lends itself to one.
+7. **Review and improve** your notes and implementations.
+
+If you are new to programming, begin with [Python](01-Python/). Build the necessary mathematical foundations alongside programming, then progress into [Data Science](04-Data-Science/) and [Machine Learning](05-Machine-Learning/).
+
+You do not need to complete every section before starting small projects.
+
+## 🔁 Learning Methodology
+
+My preferred learning cycle is:
+
+**Understand → Implement → Practice → Apply → Review**
+
+| Stage | What it means |
+|---|---|
+| Understand | Learn the purpose, logic, terminology, and theory behind a concept. |
+| Implement | Write code and observe how the concept works. |
+| Practice | Solve problems, test edge cases, and debug mistakes. |
+| Apply | Use the concept in an exercise, experiment, or project. |
+| Review | Revisit the material, improve explanations, and identify gaps. |
+
+The emphasis is on developing understanding rather than merely completing tutorials.
+
+---
+
+## 📈 Learning Progress
+
+**Overall status: Work in Progress**
+
+This repository is being developed incrementally. Progress is tracked according to the work completed, not the number of folders created.
+
+| Status | Meaning |
+|---|---|
+| 🟡 Planned | Identified for future study or development. |
+| 🔵 In Progress | Notes, examples, or exercises are being created. |
+| 🟠 Practiced | Relevant exercises have been attempted. |
+| 🟢 Reviewed | Content and examples have been revisited and checked. |
+| ✅ Project Complete | The project implementation and documentation are available and verified. |
+
+### Progress principles
+
+- A folder is not considered complete simply because it exists.
+- Examples should be tested where practical.
+- Exercises should be attempted before being marked as completed.
+- Projects should include working code and meaningful documentation before being labeled complete.
+- Progress descriptions will be updated as the repository develops.
+
+For topic-specific progress, use a checklist inside the relevant folder's README rather than reporting an unsupported overall completion percentage.
+
+---
+
+## 🛠️ Tools and Technologies
+
+The tools used will depend on the topic and project.
+
+| Area | Tools and technologies |
+|---|---|
+| Programming | Python, C, C++, JavaScript, TypeScript |
+| Development | VS Code, Git, GitHub |
+| Python environments | `venv`, `virtualenv`, Conda |
+| Interactive learning | Jupyter Notebook |
+| Data analysis | NumPy, pandas |
+| Visualization | Matplotlib and other relevant visualization libraries |
+| AI and ML | Libraries and frameworks introduced in the relevant sections |
+| Web development | HTML, CSS, JavaScript, and related frameworks |
+| Documentation | Markdown, README files, and code comments |
+
+This list describes the repository's learning scope. It should not be interpreted as a claim of mastery of every tool.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+Replace the placeholder with your actual GitHub username and repository URL.
+
+```bash
+git clone https://github.com/<your-github-username>/AI-ML-Journey.git
+cd AI-ML-Journey
 ```
 
-The focus is not on simply finishing topics.
+If the repository has a different name or URL, copy the clone URL from its GitHub page.
 
-The goal is to **understand concepts deeply enough to use them independently**.
+### 2. Open the repository
 
----
+Open the folder in VS Code, or browse the Markdown files directly on GitHub.
 
-# 🧭 Learning Roadmap
+### 3. Set up Python when needed
 
-The repository follows a broad learning path:
+Create an isolated environment for the Python topic or project you are working on.
 
-```text
-Programming Fundamentals
-        │
-        ├── Python
-        ├── C
-        └── C++
-        │
-        ↓
-Mathematics
-        │
-        ├── Calculus
-        ├── Linear Algebra
-        ├── Statistics
-        └── Probability
-        │
-        ↓
-Data Structures & Algorithms
-        │
-        ↓
-Data Science
-        │
-        ├── Data Cleaning
-        ├── Data Preprocessing
-        ├── EDA
-        ├── Visualization
-        └── Feature Engineering
-        │
-        ↓
-Machine Learning
-        │
-        ↓
-Deep Learning
-        │
-        ├── NLP
-        └── Computer Vision
-        │
-        ↓
-Generative AI
-        │
-        ├── LLMs
-        ├── RAG
-        ├── AI Agents
-        └── AI Applications
-        │
-        ↓
-MLOps
-        │
-        ↓
-AI Engineering
+**Windows — PowerShell**
+
+```powershell
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
 ```
 
-Alongside the AI/ML path:
+**macOS or Linux**
 
-```text
-Web Development
-C / C++
-DSA
-Cybersecurity
-Software Engineering
-System Design
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
 ```
 
-These areas provide the supporting engineering knowledge required to build complete software and AI systems.
+Install only the packages required for your current topic. If a project has its own `requirements.txt`, `pyproject.toml`, or `environment.yml`, follow that project's setup instructions.
+
+Do not commit the `.venv/` directory to Git.
 
 ---
 
-# 🗂️ Repository Structure
+## 📐 Repository Standards
 
-```text
-Complete-AI-ML-Journey/
-│
-├── 00-Resources/
-│
-├── 01-Python/
-│   ├── Advanced/
-│   ├── Context-Manager/
-│   ├── Decorators/
-│   ├── DSA-With-Python/
-│   ├── Exception-Handling/
-│   ├── Exercise/
-│   ├── File-Handling/
-│   ├── Fundamentals/
-│   ├── Iterators-Generators/
-│   ├── Mini-Projects/
-│   ├── Modules-Packages/
-│   └── OOPs/
-│
-├── 02-Mathematics/
-│
-├── 03-Libraries/
-│
-├── 04-Data-Science/
-│   ├── Case-Studies/
-│   ├── Data-Cleaning/
-│   ├── Data-Preprocessing/
-│   ├── Data-Visualization/
-│   ├── EDA/
-│   ├── Feature-Engineering/
-│   └── SQL/
-│
-├── 05-Machine-Learning/
-│
-├── 06-Deep-Learning/
-│
-├── 07-NLP/
-│
-├── 08-Computer-Vision/
-│
-├── 09-Generative-AI/
-│
-├── 10-MLOps/
-│
-├── 11-Projects/
-│
-├── 12-Practice/
-│
-├── 13-Datasets/
-│
-├── 14-Assets/
-│
-├── 15-Resources/
-│
-├── 16-Environments/
-│
-├── 17-Data-Structure-And-Algorithms/
-│   ├── 01-DSA-Fundamentals/
-│   ├── 02-Arrays-and-Strings/
-│   ├── 03-Linked-Lists/
-│   ├── 04-Stacks-and-Queues/
-│   ├── 05-Hashing/
-│   ├── 06-Trees/
-│   ├── 07-Graphs/
-│   ├── 08-Recursion-and-Backtracking/
-│   ├── 09-Sorting/
-│   ├── 10-Searching/
-│   ├── 11-Greedy-Algorithms/
-│   ├── 12-Dynamic-Programming/
-│   ├── 13-Divide-and-Conquer/
-│   ├── 14-Bit-Manipulation/
-│   ├── 15-Advanced-DSA/
-│   ├── 16-DSA-Patterns/
-│   ├── 17-Problem-Solving/
-│   ├── 18-Coding-Practice/
-│   ├── 19-DSA-Projects/
-│   ├── 20-Interview-Preparation/
-│   ├── 21-Books/
-│   ├── 22-DSA-for-AI-ML/
-│   ├── 23-Practice-Sheets/
-│   ├── 24-Revision/
-│   ├── Assets/
-│   ├── Learning-Roadmap.md
-│   └── README.md
-│
-├── 18-Web-Development/
-│   ├── 01-Web-Development-Fundamentals/
-│   ├── 02-HTML/
-│   ├── 03-CSS/
-│   ├── 04-JavaScript/
-│   ├── 05-DOM-and-Browser-APIs/
-│   ├── 06-Git-and-GitHub/
-│   ├── 07-Frontend-Development/
-│   ├── 08-React/
-│   ├── 09-TypeScript/
-│   ├── 10-Frontend-Frameworks/
-│   ├── 11-Backend-Development/
-│   ├── 12-APIs/
-│   ├── 13-Databases/
-│   ├── 14-Authentication-and-Security/
-│   ├── 15-Full-Stack-Development/
-│   ├── 16-Testing/
-│   ├── 17-DevOps-and-Deployment/
-│   ├── 18-Web-Performance/
-│   ├── 19-Web-Accessibility/
-│   ├── 20-System-Design-for-Web/
-│   ├── 21-AI-Powered-Web-Development/
-│   ├── 22-Web-Development-Projects/
-│   ├── 23-Practice/
-│   ├── 24-Cheat-Sheets/
-│   ├── 25-Revision/
-│   ├── Projects/
-│   ├── Learning-Roadmap.md
-│   └── README.md
-│
-├── 19-C++-Language/
-│
-├── 20-C-Language/
-│   ├── 00-Setup-And-Compilation/
-│   ├── 01-Basics/
-│   ├── 02-Variables-and-Data-Types/
-│   ├── 03-Input-and-Output/
-│   ├── 04-Operators/
-│   ├── 05-Conditional-Statements/
-│   ├── 06-Loops/
-│   ├── 07-Functions/
-│   ├── 08-Arrays/
-│   ├── 09-Strings/
-│   ├── 10-Pointers/
-│   ├── 11-Structures-and-Unions/
-│   ├── 12-Enumerations-and-Typedef/
-│   ├── 13-Dynamic-Memory/
-│   ├── 14-File-Handling/
-│   ├── 15-Preprocessor/
-│   ├── 16-Standard-Library/
-│   ├── 17-Bitwise-Programming/
-│   ├── 18-Data-Structures/
-│   ├── 19-Algorithms/
-│   ├── 20-Problem-Solving/
-│   ├── 21-Mini-Projects/
-│   ├── 22-Resources/
-│   ├── README.md
-│   └── REFERENCE.md
-│
-├── 21-Cyber-Security/
-│
-└── .gitignore
-```
+To keep the repository maintainable, learning materials should follow these principles where appropriate:
+
+### Notes
+
+- Use clear headings and simple explanations.
+- Explain why a concept matters, not only what it is.
+- Include examples, tables, diagrams, or formulas where helpful.
+- Reference reliable documentation for further reading.
+
+### Code
+
+- Use descriptive variable and function names.
+- Prefer readable code over unnecessary complexity.
+- Include comments when they clarify non-obvious logic.
+- Test examples where practical.
+- Document expected output and important edge cases.
+
+### Exercises and algorithms
+
+- Include problem statements and sample inputs or outputs where useful.
+- Explain the approach to a solution.
+- Record time and space complexity for algorithm problems.
+- Keep alternative approaches when they provide meaningful learning value.
+
+### Projects
+
+- Explain the problem, approach, setup, and usage.
+- Include dependencies and reproducibility instructions.
+- Report actual results honestly.
+- Document known limitations and future improvements.
 
 ---
 
-# 🐍 01 — Python
+## 📊 Datasets and Resources
 
-Python is one of the primary programming languages used throughout this journey.
+Datasets and external resources should be handled responsibly.
 
-The Python section starts from fundamentals and progressively moves toward advanced programming, problem solving, and practical development.
+- Prefer official sources and document the source URL.
+- Record the dataset license, schema, target variable, and limitations where relevant.
+- Avoid committing large datasets unnecessarily.
+- Use download instructions or scripts when appropriate.
+- Never publish private, confidential, or sensitive data.
+- Respect copyright and terms of use for books, research papers, images, and third-party code.
 
-## Topics
-
-- Python Fundamentals
-- Variables and Data Types
-- Operators
-- Input and Output
-- Conditional Statements
-- Loops
-- Functions
-- File Handling
-- Exception Handling
-- Modules and Packages
-- Object-Oriented Programming
-- Iterators and Generators
-- Decorators
-- Context Managers
-- Advanced Python
-- DSA with Python
-- Exercises
-- Mini Projects
-
-## Learning Structure
-
-```text
-Python
-│
-├── Fundamentals
-├── Control Flow
-├── Functions
-├── Data Structures
-├── File Handling
-├── Exceptions
-├── Modules & Packages
-├── OOP
-├── Iterators & Generators
-├── Decorators
-├── Context Managers
-├── Advanced Python
-├── DSA with Python
-├── Exercises
-└── Mini Projects
-```
+The [Datasets](13-Datasets/) and [Resources](15-Resources/) sections are intended to make learning materials easier to discover and reproduce.
 
 ---
 
-# 🧮 02 — Mathematics
+## 🧪 Projects
 
-Mathematics provides the theoretical foundation required for Data Science, Machine Learning, Deep Learning, and AI.
+Projects are an important part of applying what I learn.
 
-## Core Areas
+The [Projects](11-Projects/) section is intended to contain practical implementations, experiments, and end-to-end applications as they are developed.
 
-- Algebra
-- Linear Algebra
-- Calculus
-- Partial Derivatives
-- Probability
-- Statistics
-- Differential Equations
-- Optimization
-- Mathematical Foundations for Machine Learning
+For each project, the goal is to document:
 
-Special emphasis is placed on understanding **why mathematical concepts are useful in AI/ML**, rather than memorizing formulas alone.
+- The problem being addressed.
+- The approach and technologies used.
+- Setup and usage instructions.
+- Relevant examples, outputs, or demonstrations.
+- Results, limitations, and potential improvements.
+
+Only projects that have actually been implemented and documented should be presented as completed.
 
 ---
 
-# 📚 03 — Libraries
+## 🤝 Contributing
 
-This section contains learning material and practical implementations for important Python and AI/ML libraries.
-
-## Libraries
-
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- SciPy
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- OpenCV
-- Other useful Python libraries
-
-The purpose of this section is to understand:
-
-```text
-What does the library do?
-        ↓
-How does it work?
-        ↓
-How do I use it?
-        ↓
-Where is it useful in real projects?
-```
-
----
-
-# 📊 04 — Data Science
-
-The Data Science section focuses on turning raw data into meaningful information.
-
-## Topics
-
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis
-- Data Visualization
-- Feature Engineering
-- SQL
-- Case Studies
-
-## Typical Data Science Workflow
-
-```text
-Raw Data
-   ↓
-Data Inspection
-   ↓
-Data Cleaning
-   ↓
-Data Preprocessing
-   ↓
-Exploratory Data Analysis
-   ↓
-Visualization
-   ↓
-Feature Engineering
-   ↓
-Analysis
-   ↓
-Insights
-```
-
----
-
-# 🤖 05 — Machine Learning
-
-The Machine Learning section covers the concepts and practical techniques required to build predictive models.
-
-## Topics
-
-- Machine Learning Fundamentals
-- Supervised Learning
-- Unsupervised Learning
-- Regression
-- Classification
-- Clustering
-- Ensemble Learning
-- Feature Selection
-- Model Evaluation
-- Cross Validation
-- Hyperparameter Tuning
-- Model Interpretation
-- Practical ML Projects
-
-## Machine Learning Workflow
-
-```text
-Problem
-  ↓
-Data
-  ↓
-Cleaning
-  ↓
-Preprocessing
-  ↓
-Feature Engineering
-  ↓
-Model Selection
-  ↓
-Training
-  ↓
-Evaluation
-  ↓
-Tuning
-  ↓
-Prediction
-```
-
----
-
-# 🧠 06 — Deep Learning
-
-This section focuses on neural networks and modern deep learning systems.
-
-## Topics
-
-- Neural Networks
-- Perceptrons
-- Forward Propagation
-- Backpropagation
-- Activation Functions
-- Loss Functions
-- Optimization
-- CNNs
-- RNNs
-- LSTMs
-- Transformers
-- Transfer Learning
-- Model Training
-- Model Evaluation
-- Deep Learning Projects
-
----
-
-# 📝 07 — NLP
-
-Natural Language Processing focuses on teaching machines to work with human language.
-
-## Topics
-
-- Text Processing
-- Tokenization
-- Stop Words
-- Stemming
-- Lemmatization
-- Bag of Words
-- TF-IDF
-- Word Embeddings
-- Semantic Similarity
-- Attention
-- Transformers
-- BERT
-- Large Language Models
-- NLP Applications
-
----
-
-# 👁️ 08 — Computer Vision
-
-The Computer Vision section focuses on understanding and processing visual information.
-
-## Topics
-
-- Image Processing
-- Image Representation
-- Image Classification
-- Convolutional Neural Networks
-- Object Detection
-- Image Segmentation
-- Feature Extraction
-- OpenCV
-- Computer Vision Projects
-
----
-
-# ✨ 09 — Generative AI
-
-This section focuses on modern generative AI systems and applications.
-
-## Topics
-
-- Generative AI Fundamentals
-- Large Language Models
-- Prompt Engineering
-- Embeddings
-- Vector Databases
-- Retrieval-Augmented Generation
-- RAG Pipelines
-- AI Agents
-- Tool Calling
-- Function Calling
-- LLM Applications
-- Fine-Tuning
-- AI Workflows
-- Generative AI Projects
-
-## Conceptual Pipeline
-
-```text
-User
- ↓
-Application
- ↓
-LLM
- ↓
-Tools / Retrieval / Memory
- ↓
-Processing
- ↓
-Response
-```
-
----
-
-# ⚙️ 10 — MLOps
-
-MLOps focuses on taking machine learning systems from experimentation toward reliable deployment.
-
-## Topics
-
-- Git & GitHub
-- Environment Management
-- Reproducibility
-- Experiment Tracking
-- Model Versioning
-- Data Versioning
-- APIs
-- Docker
-- CI/CD
-- Model Deployment
-- Monitoring
-- ML Pipelines
-- Cloud Fundamentals
-
-## ML Lifecycle
-
-```text
-Data
- ↓
-Experiment
- ↓
-Train
- ↓
-Evaluate
- ↓
-Track
- ↓
-Package
- ↓
-Deploy
- ↓
-Monitor
- ↓
-Improve
-```
-
----
-
-# 🚀 11 — Projects
-
-Projects are where concepts from different sections are combined into practical systems.
-
-## 🟢 Beginner Projects
-
-- Python Mini Projects
-- Data Analysis Projects
-- Visualization Projects
-- Automation Projects
-
-## 🟡 Intermediate Projects
-
-- Machine Learning Applications
-- Data Science Case Studies
-- Web Applications
-- API-Based Applications
-
-## 🔴 Advanced Projects
-
-- End-to-End ML Systems
-- Deep Learning Applications
-- NLP Applications
-- Computer Vision Systems
-- Generative AI Applications
-- AI Agents
-- Full-Stack AI Applications
-
-The goal is to move from:
-
-```text
-Tutorial
-   ↓
-Implementation
-   ↓
-Independent Project
-   ↓
-Real System
-```
-
----
-
-# 🧪 12 — Practice
-
-The Practice section is dedicated to active problem solving.
-
-## Areas
-
-- Programming Exercises
-- Python Practice
-- ML Exercises
-- Data Science Exercises
-- Mathematical Problems
-- Coding Challenges
-- Conceptual Questions
-- Implementation Challenges
-
-Practice is kept separate from theory so that concepts can be applied independently.
-
----
-
-# 🗃️ 13 — Datasets
-
-Datasets used for:
-
-- Data Analysis
-- Visualization
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- Experiments
-- Projects
-
-## Dataset Documentation
-
-Whenever appropriate, datasets will include:
-
-- Dataset source
-- Description
-- Features
-- Target variables
-- Data types
-- Important observations
-- Intended use
-
----
-
-# 🎨 14 — Assets
-
-Centralized assets used throughout the repository.
-
-## Examples
-
-- Images
-- Diagrams
-- Charts
-- Flowcharts
-- Screenshots
-- Icons
-- Visual references
-
-This keeps notebooks and documentation organized.
-
----
-
-# 📚 15 — Resources
-
-A centralized collection of useful learning resources.
-
-## Examples
-
-- Books
-- Documentation
-- Articles
-- Research Papers
-- Courses
-- Tutorials
-- Cheat Sheets
-- References
-- Useful Websites
-
-The goal is to keep high-quality references accessible while learning different subjects.
-
----
-
-# 🛠️ 16 — Environments
-
-This section contains environment and setup-related documentation.
-
-## Examples
-
-- Python environments
-- Virtual environments
-- Jupyter setup
-- Package installation
-- Dependency management
-- Development environment setup
-- Configuration notes
-- Toolchain setup
-
-The purpose is to make development environments reproducible and easier to understand.
-
----
-
-# 🧩 17 — Data Structures & Algorithms
-
-A dedicated DSA track for building strong problem-solving and computer science fundamentals.
-
-## Structure
-
-```text
-17-Data-Structure-And-Algorithms/
-│
-├── 01-DSA-Fundamentals/
-├── 02-Arrays-and-Strings/
-├── 03-Linked-Lists/
-├── 04-Stacks-and-Queues/
-├── 05-Hashing/
-├── 06-Trees/
-├── 07-Graphs/
-├── 08-Recursion-and-Backtracking/
-├── 09-Sorting/
-├── 10-Searching/
-├── 11-Greedy-Algorithms/
-├── 12-Dynamic-Programming/
-├── 13-Divide-and-Conquer/
-├── 14-Bit-Manipulation/
-├── 15-Advanced-DSA/
-├── 16-DSA-Patterns/
-├── 17-Problem-Solving/
-├── 18-Coding-Practice/
-├── 19-DSA-Projects/
-├── 20-Interview-Preparation/
-├── 21-Books/
-├── 22-DSA-for-AI-ML/
-├── 23-Practice-Sheets/
-├── 24-Revision/
-│
-├── Assets/
-├── Learning-Roadmap.md
-└── README.md
-```
-
-## Why DSA?
-
-DSA develops:
-
-- Logical thinking
-- Algorithmic thinking
-- Problem-solving ability
-- Computational thinking
-- Programming fundamentals
-- Interview readiness
-
-It also provides an important foundation for writing efficient AI and software systems.
-
----
-
-# 🌐 18 — Web Development
-
-Web Development provides the engineering foundation required to build interfaces, APIs, backend systems, and full-stack AI applications.
-
-## Structure
-
-```text
-18-Web-Development/
-│
-├── 01-Web-Development-Fundamentals/
-├── 02-HTML/
-├── 03-CSS/
-├── 04-JavaScript/
-├── 05-DOM-and-Browser-APIs/
-├── 06-Git-and-GitHub/
-├── 07-Frontend-Development/
-├── 08-React/
-├── 09-TypeScript/
-├── 10-Frontend-Frameworks/
-├── 11-Backend-Development/
-├── 12-APIs/
-├── 13-Databases/
-├── 14-Authentication-and-Security/
-├── 15-Full-Stack-Development/
-├── 16-Testing/
-├── 17-DevOps-and-Deployment/
-├── 18-Web-Performance/
-├── 19-Web-Accessibility/
-├── 20-System-Design-for-Web/
-├── 21-AI-Powered-Web-Development/
-├── 22-Web-Development-Projects/
-├── 23-Practice/
-├── 24-Cheat-Sheets/
-├── 25-Revision/
-│
-├── Projects/
-├── Learning-Roadmap.md
-└── README.md
-```
-
-## Learning Path
-
-```text
-HTML
- ↓
-CSS
- ↓
-JavaScript
- ↓
-DOM
- ↓
-Frontend
- ↓
-React
- ↓
-TypeScript
- ↓
-Backend
- ↓
-APIs
- ↓
-Databases
- ↓
-Authentication
- ↓
-Full Stack
- ↓
-Testing
- ↓
-Deployment
- ↓
-AI-Powered Web Applications
-```
-
----
-
-# ⚡ 19 — C++ Language
-
-C++ is included to strengthen programming fundamentals, problem solving, DSA, and systems-level understanding.
-
-## Topics
-
-- Setup & Compilation
-- C++ Fundamentals
-- Variables and Data Types
-- Operators
-- Control Flow
-- Functions
-- Arrays
-- Strings
-- Pointers
-- References
-- Memory
-- Object-Oriented Programming
-- Templates
-- STL
-- Data Structures
-- Algorithms
-- Problem Solving
-- Mini Projects
-- DSA
-
-C++ also provides a strong foundation for understanding performance-oriented programming and competitive programming.
-
----
-
-# 🔵 20 — C Language
-
-C provides a lower-level understanding of programming and computer systems.
-
-## Structure
-
-```text
-20-C-Language/
-│
-├── 00-Setup-And-Compilation/
-├── 01-Basics/
-├── 02-Variables-and-Data-Types/
-├── 03-Input-and-Output/
-├── 04-Operators/
-├── 05-Conditional-Statements/
-├── 06-Loops/
-├── 07-Functions/
-├── 08-Arrays/
-├── 09-Strings/
-├── 10-Pointers/
-├── 11-Structures-and-Unions/
-├── 12-Enumerations-and-Typedef/
-├── 13-Dynamic-Memory/
-├── 14-File-Handling/
-├── 15-Preprocessor/
-├── 16-Standard-Library/
-├── 17-Bitwise-Programming/
-├── 18-Data-Structures/
-├── 19-Algorithms/
-├── 20-Problem-Solving/
-├── 21-Mini-Projects/
-├── 22-Resources/
-│
-├── README.md
-└── REFERENCE.md
-```
-
-## Core Goal
-
-The C section focuses on understanding what happens closer to the machine:
-
-```text
-Variables
-   ↓
-Memory
-   ↓
-Pointers
-   ↓
-Dynamic Memory
-   ↓
-Data Structures
-   ↓
-Algorithms
-```
-
----
-
-# 🔐 21 — Cybersecurity
-
-A dedicated section for developing foundational cybersecurity knowledge.
-
-## Potential Areas
-
-- Cybersecurity Fundamentals
-- Networking Fundamentals
-- Operating Systems
-- Security Concepts
-- Authentication
-- Authorization
-- Cryptography
-- Web Security
-- Secure Coding
-- Vulnerability Concepts
-- Defensive Security
-- Security Tools
-- Security Projects
-- Cybersecurity Resources
-
-The focus is on understanding security concepts responsibly and applying them to secure software and systems.
-
----
-
-# 🧠 How Notes Are Structured
-
-Learning material throughout the repository aims to follow a consistent structure.
-
-A typical topic may contain:
-
-```text
-1. Introduction
-2. What is it?
-3. Why does it matter?
-4. Core Concepts
-5. Intuition
-6. Syntax / Mathematics
-7. Examples
-8. Code Implementation
-9. Visual Explanation
-10. Common Mistakes
-11. Best Practices
-12. Real-World Applications
-13. AI/ML Applications
-14. Interview Questions
-15. Practice Problems
-16. References
-```
-
-The exact structure may vary depending on the subject.
-
----
-
-# 💻 Technology Stack
-
-## Programming Languages
-
-- Python
-- C
-- C++
-- JavaScript
-- TypeScript
-- SQL
-
-## Data & AI
-
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- SciPy
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- OpenCV
-
-## Web Development
-
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
-- APIs
-- Databases
-- Backend Technologies
-
-## Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Linux
-- Docker
-
----
-
-# 🧱 Learning Layers
-
-The repository can be viewed as several connected learning layers:
-
-```text
-┌─────────────────────────────────────┐
-│          AI ENGINEERING             │
-├─────────────────────────────────────┤
-│ Generative AI │ NLP │ Computer      │
-│ Vision │ Deep Learning              │
-├─────────────────────────────────────┤
-│        Machine Learning             │
-├─────────────────────────────────────┤
-│          Data Science               │
-├─────────────────────────────────────┤
-│      Mathematics & Statistics       │
-├─────────────────────────────────────┤
-│     DSA & Problem Solving           │
-├─────────────────────────────────────┤
-│ Python │ C │ C++ │ Programming      │
-├─────────────────────────────────────┤
-│      Software & Web Engineering     │
-└─────────────────────────────────────┘
-```
-
----
-
-# 🔗 Connecting the Different Areas
-
-The sections are not isolated.
-
-They support each other.
-
-## Python + Mathematics
-
-```text
-Python
-  +
-Mathematics
-  ↓
-Data Science
-  ↓
-Machine Learning
-```
-
-## DSA + Programming
-
-```text
-C / C++ / Python
-       ↓
-      DSA
-       ↓
-Problem Solving
-       ↓
-Efficient Software
-```
-
-## Web + AI
-
-```text
-Machine Learning / LLM
-          ↓
-        APIs
-          ↓
-      Backend
-          ↓
-       Frontend
-          ↓
-    AI Application
-```
-
-## AI + MLOps
-
-```text
-Model
- ↓
-Experiment
- ↓
-Training
- ↓
-Evaluation
- ↓
-Packaging
- ↓
-Deployment
- ↓
-Monitoring
-```
-
----
-
-# 📂 Projects
-
-Projects are organized around practical implementation rather than simply demonstrating syntax.
-
-## 🐍 Programming Projects
-
-Python, C, and C++ projects designed to strengthen programming fundamentals.
-
-## 📊 Data Projects
-
-Data cleaning, analysis, visualization, and case-study projects.
-
-## 🤖 Machine Learning Projects
-
-End-to-end ML projects involving:
-
-```text
-Data
- ↓
-Processing
- ↓
-Features
- ↓
-Model
- ↓
-Evaluation
- ↓
-Prediction
-```
-
-## 🧠 AI Projects
-
-Projects involving:
-
-- Deep Learning
-- NLP
-- Computer Vision
-- Generative AI
-- LLMs
-- AI Agents
-
-## 🌐 Web Projects
-
-Projects involving:
-
-- Frontend
-- Backend
-- APIs
-- Databases
-- Full-stack applications
-- AI-powered web applications
-
----
-
-# 🎯 Long-Term Goals
-
-This repository is being built with several long-term objectives:
-
-- Build strong programming fundamentals
-- Develop mathematical intuition
-- Become strong at Data Structures & Algorithms
-- Understand Data Science workflows
-- Master Machine Learning fundamentals
-- Learn Deep Learning
-- Understand NLP and Computer Vision
-- Build Generative AI applications
-- Learn MLOps and deployment
-- Build full-stack AI applications
-- Improve software engineering practices
-- Develop problem-solving ability
-- Build a strong technical portfolio
-- Create reusable knowledge and references
-
----
-
-# 📈 From Learning to Engineering
-
-The ultimate goal is not simply to know many technologies.
-
-It is to become capable of taking a problem and building a solution.
-
-```text
-Problem
-   ↓
-Understand
-   ↓
-Research
-   ↓
-Design
-   ↓
-Implement
-   ↓
-Test
-   ↓
-Debug
-   ↓
-Optimize
-   ↓
-Deploy
-   ↓
-Document
-```
-
-That mindset is what transforms learning into engineering.
-
----
-
-# 📝 Documentation Principles
-
-The repository follows several principles.
-
-### 01 — Understand Before Memorizing
-
-Concepts should be understood rather than memorized blindly.
-
-### 02 — Learn Through Implementation
-
-Whenever possible, concepts are implemented using code.
-
-### 03 — Connect Theory With Practice
-
-Mathematics, programming, and AI concepts should connect to practical applications.
-
-### 04 — Build While Learning
-
-Projects are used to reinforce concepts.
-
-### 05 — Document Clearly
-
-Notes should remain useful for future revision.
-
-### 06 — Prefer Fundamentals
-
-Strong fundamentals are prioritized before advanced frameworks.
-
-### 07 — Keep Improving
-
-The repository is continuously refined as knowledge and understanding improve.
-
----
-
-# 📚 References & Resources
-
-Learning resources may include:
-
-- Official documentation
-- Books
-- Research papers
-- University material
-- Technical articles
-- Tutorials
-- Open-source repositories
-- Practical experiments
-- Community resources
-
-Whenever possible, primary and authoritative sources are preferred.
-
----
-
-# 🤝 Contributing
-
-This repository primarily documents my own learning journey, but suggestions and improvements are welcome.
+This repository primarily documents my personal learning journey, but constructive feedback and corrections are welcome.
 
 If you notice an issue:
 
-1. Open an Issue
-2. Describe the problem clearly
-3. Suggest an improvement
-4. Submit a Pull Request if appropriate
+1. Identify the relevant file or folder.
+2. Explain the problem or suggested improvement.
+3. Provide a reproducible example or reliable reference when possible.
 
-For educational material, clarity and correctness are especially important.
+For contribution details, see [CONTRIBUTING.md](CONTRIBUTING.md), if available.
 
----
-
-# ⭐ Support
-
-If you find this repository useful:
-
-- ⭐ Star the repository
-- 🍴 Fork it
-- 📖 Use the notes for learning
-- 💡 Suggest improvements
-- 🐛 Report issues
-- 🚀 Build your own projects
-
-Every star and contribution helps make the repository more useful to other learners.
+Please do not submit credentials, private data, unlicensed datasets, or copyrighted material without permission.
 
 ---
 
-# 📜 License
+## 📄 License
 
-This repository is licensed under the **Apache License 2.0**.
+See the [`LICENSE`](LICENSE) file for the license selected for this repository.
 
-See the [`LICENSE`](LICENSE) file for the complete license text.
+Third-party datasets, images, libraries, research papers, and other resources may have separate licenses and usage restrictions. Check their individual terms before reusing them.
 
 ---
 
-<div align="center">
+## 🌱 Final Note
 
-# 🚀 Keep Learning. Keep Building. Keep Improving.
+Learning computer science and AI is a continuous process of exploration, implementation, mistakes, and improvement.
 
-### Learn the fundamentals.
-### Understand the concepts.
-### Solve the problems.
-### Build the systems.
+**AI-ML-Journey** is intended to document that process transparently—from foundational concepts to practical applications—with an emphasis on consistency, understanding, and reproducible work.
 
-<br>
+If you are also learning these topics, feel free to explore the sections and adapt the learning approach to your own goals.
 
-**One concept → One implementation → One problem → One project at a time.**
-
-<br>
-
-⭐ **If this repository helps you, consider giving it a star!**
-
-</div>
+**Keep learning. Keep building. Keep improving.** 🚀
