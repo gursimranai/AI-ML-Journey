@@ -1,20 +1,27 @@
 # 🎨 Assets Library
 
-Welcome to the **Assets Library** of the AI/ML Journey repository. This directory stores reusable visual resources that support learning materials, technical documentation, Jupyter notebooks, tutorials, and projects.
+Welcome to the **Assets Library** of the AI-ML-Journey repository.
 
-It includes conceptual diagrams, flowcharts, mathematical illustrations, data visualizations, machine learning visuals, deep learning visuals, NLP and LLM visuals, computer vision visuals, icons, logos, and notebook-specific images.
+This directory contains visual resources used throughout the repository, including educational diagrams, data visualizations, machine learning illustrations, project screenshots, GitHub profile graphics, icons, logos, and Jupyter notebook images.
 
-The purpose of this directory is to maintain a **centralized, organized, and reusable collection of visual assets** without unnecessarily duplicating files across the repository.
+The goal is to maintain a centralized, organized, and reusable collection of visual assets that improves the quality of technical notes, notebooks, documentation, and projects.
 
----
+## 🎯 Purpose
+
+The Assets Library helps to:
+
+- Explain complex technical concepts through visual representations.
+- Support Python, mathematics, data science, and AI/ML learning materials.
+- Improve the readability of Markdown files and Jupyter notebooks.
+- Showcase project interfaces, outputs, and results.
+- Maintain consistent visual presentation across the repository.
+- Reuse assets without unnecessarily duplicating files.
 
 ## 📂 Directory Structure
 
 ```text
 14-Assets/
-│
 ├── README.md
-│
 ├── 01-Diagrams/
 ├── 02-Flowcharts/
 ├── 03-Mathematical-Visualizations/
@@ -23,107 +30,116 @@ The purpose of this directory is to maintain a **centralized, organized, and reu
 ├── 06-Deep-Learning-Visuals/
 ├── 07-NLP-And-LLM-Visuals/
 ├── 08-Computer-Vision-Visuals/
+├── 09-Project-Screenshots/
+├── 10-GitHub-And-Profile-Assets/
 ├── 11-Icons-And-Logos/
 └── 12-Notebook-Images/
 ```
 
-*This overview reflects the folders currently identified in the repository. Keep any other existing folders, including folders numbered 09 and 10, if present.*
+Each category has its own README describing its purpose and organization guidelines. Existing images and additional files should remain in their appropriate folders.
 
----
+## 🗂️ Asset Categories
 
-## 📚 Asset Categories
+| Folder | Purpose |
+|---|---|
+| `01-Diagrams/` | Conceptual diagrams explaining programming, data structures, AI, and related topics. |
+| `02-Flowcharts/` | Algorithms, workflows, decision processes, and step-by-step logic. |
+| `03-Mathematical-Visualizations/` | Linear algebra, calculus, probability, statistics, and optimization visuals. |
+| `04-Data-Visualizations/` | EDA plots, distributions, relationships, data quality, and statistical visuals. |
+| `05-Machine-Learning-Visuals/` | ML algorithms, training workflows, evaluation, and model concepts. |
+| `06-Deep-Learning-Visuals/` | Neural networks, CNNs, training processes, and deep learning architectures. |
+| `07-NLP-And-LLM-Visuals/` | NLP concepts, embeddings, attention, transformers, and LLM workflows. |
+| `08-Computer-Vision-Visuals/` | Image processing, CNNs, object detection, segmentation, and vision models. |
+| `09-Project-Screenshots/` | Screenshots of project interfaces, outputs, dashboards, and results. |
+| `10-GitHub-And-Profile-Assets/` | GitHub profile banners, profile graphics, badges, and portfolio visuals. |
+| `11-Icons-And-Logos/` | Programming language, library, framework, tool, and project icons or logos. |
+| `12-Notebook-Images/` | Supporting images embedded in Jupyter notebook explanations and lessons. |
 
-| Folder | Purpose | Examples |
-|---|---|---|
-| [01-Diagrams](01-Diagrams/) | Explain concepts, components, relationships, and structures. | Python core data types, types of AI, conceptual diagrams |
-| [02-Flowcharts](02-Flowcharts/) | Illustrate workflows, algorithms, and decision processes. | Program flow, data-processing pipelines |
-| [03-Mathematical-Visualizations](03-Mathematical-Visualizations/) | Represent mathematical and statistical concepts visually. | Functions, derivatives, vectors, probability distributions |
-| [04-Data-Visualizations](04-Data-Visualizations/) | Store visuals related to data exploration, analysis, and interpretation. | Outliers, duplicate records, data-cleaning illustrations |
-| [05-Machine-Learning-Visuals](05-Machine-Learning-Visuals/) | Explain machine learning terminology, algorithms, and workflows. | Model training, evaluation, ML concepts |
-| [06-Deep-Learning-Visuals](06-Deep-Learning-Visuals/) | Illustrate neural networks and deep learning architectures. | Neural network layers, CNN architectures |
-| [07-NLP-And-LLM-Visuals](07-NLP-And-LLM-Visuals/) | Explain language processing and large language model concepts. | Tokenization, embeddings, attention mechanisms |
-| [08-Computer-Vision-Visuals](08-Computer-Vision-Visuals/) | Store visuals about image processing and computer vision. | Image classification, object detection |
-| [11-Icons-And-Logos](11-Icons-And-Logos/) | Store icons, project logos, and other interface or branding assets. | Technology icons, project logos |
-| [12-Notebook-Images](12-Notebook-Images/) | Store images created or selected specifically for notebook-based lessons. | Topic illustrations, notebook banners |
+## 🧭 Where Should an Asset Go?
 
----
+Choose the folder according to the asset's **primary purpose**, rather than its file format.
 
-## 🗂️ Organization Guidelines
+- **Concept explanation:** `01-Diagrams/`
+- **Algorithm or process steps:** `02-Flowcharts/`
+- **Mathematical concept:** `03-Mathematical-Visualizations/`
+- **Charts and exploratory analysis:** `04-Data-Visualizations/`
+- **Traditional ML concept:** `05-Machine-Learning-Visuals/`
+- **Neural network or deep learning concept:** `06-Deep-Learning-Visuals/`
+- **NLP, transformers, or LLM concept:** `07-NLP-And-LLM-Visuals/`
+- **Image processing or vision model:** `08-Computer-Vision-Visuals/`
+- **Actual project screenshot:** `09-Project-Screenshots/`
+- **GitHub profile or portfolio graphic:** `10-GitHub-And-Profile-Assets/`
+- **Standalone icon or logo:** `11-Icons-And-Logos/`
+- **Image specifically supporting a notebook:** `12-Notebook-Images/`
 
-### 1. Choose the folder by the visual's purpose
+If an image could fit multiple categories, select the folder that best represents how it will be used. Avoid storing duplicate copies unless there is a clear reason.
 
-Organize assets according to what the image communicates and how it will be reused.
+## 🏷️ File Naming Convention
 
-- Use `01-Diagrams/` for conceptual explanations.
-- Use `02-Flowcharts/` for step-by-step processes and decision flows.
-- Use `03-Mathematical-Visualizations/` for mathematical concepts.
-- Use `04-Data-Visualizations/` for data analysis and statistical interpretation.
-- Use subject-specific visual folders for ML, deep learning, NLP/LLMs, and computer vision.
-- Use `12-Notebook-Images/` for images intended primarily to support Jupyter notebook content.
+Use descriptive filenames in **kebab-case**.
 
-Avoid creating additional categories when an existing folder is suitable.
+Recommended:
 
-### 2. Use descriptive filenames
+- `python-data-types.png`
+- `data-cleaning-workflow.png`
+- `duplicate-records-root-cause-analysis.png`
+- `machine-learning-terminology.png`
+- `transformer-architecture.svg`
+- `model-training-results.png`
 
-Prefer readable, consistent, hyphen-separated filenames.
+Avoid vague names such as `image1.png`, `final2.png`, or `new-pic.png`.
 
-**Good examples:**
+Use appropriate file formats:
 
-- `Core-Data-Types.png`
-- `Types-Of-AI.png`
-- `Outlier-Understanding.png`
-- `Duplicate-Records-Root-Cause-Analysis.png`
-- `Machine-Learning-Terminology.png`
+- **PNG:** screenshots, diagrams, and transparent raster graphics.
+- **SVG:** scalable diagrams, icons, and vector graphics.
+- **WebP:** compressed images where supported.
+- **JPEG:** photographs and other images where transparency is unnecessary.
 
-Avoid vague names such as `image1.png`, `final2.png`, or `new-diagram.png`.
+## 🔗 Referencing Assets in Markdown
 
-### 3. Keep one canonical copy
+Use relative paths so images can be displayed in repository documentation.
 
-Store each reusable asset in one appropriate location and reference it from other notebooks or documentation. Do not create multiple copies merely because an image is used in different lessons.
-
-### 4. Preserve attribution and licensing
-
-When using third-party images, diagrams, icons, or illustrations:
-
-- Record the source when required.
-- Follow the asset's license and attribution conditions.
-- Prefer original visuals or assets with clear reuse permissions.
-- Do not assume an image found online is free to redistribute.
-
-### 5. Keep assets relevant
-
-Store only resources that support the repository's learning materials, documentation, or projects. Remove obsolete duplicates when safe to do so, and update any references before moving or renaming existing assets.
-
----
-
-## 🖼️ Referencing Images in Markdown
-
-Use relative paths to display assets inside Markdown files and Jupyter notebooks.
-
-For example, from a notebook located at `01-Python/01-Fundamentals/01-Notebooks/`:
+For example, from the root repository README:
 
 ```markdown
-![Python Core Data Types](../../../14-Assets/01-Diagrams/Core-Data-Types.png)
+![Python data types](14-Assets/01-Diagrams/python-data-types.png)
 ```
 
-The correct relative path depends on the location of the file that references the image. Verify the path after moving assets.
+For an image referenced from a notebook or Markdown file in a nested folder, adjust the path according to that file's location.
+
+For a GitHub profile README stored in a separate repository, use an appropriate publicly accessible image URL if the image resides in this repository.
+
+## 📝 Attribution and Licensing
+
+- Check the license before reusing externally sourced assets.
+- Provide attribution when required.
+- Respect copyright, trademark, and brand guidelines.
+- Prefer original diagrams when they improve learning and accuracy.
+- Do not present illustrative visuals as exact implementations when they are only conceptual.
+- Remove API keys, passwords, private data, and other sensitive information from screenshots before committing.
+
+## ✅ Quality Guidelines
+
+- Keep images clear, readable, and relevant.
+- Use consistent terminology and visual styles.
+- Avoid unnecessary duplication and oversized files.
+- Add alternative text when referencing images in Markdown.
+- Verify relative paths after moving or renaming assets.
+- Keep project screenshots consistent with the actual state of the project.
+- Update visuals when the associated learning materials change.
+
+## 🚀 Contribution Guidelines
+
+When adding a new asset:
+
+1. Choose the most appropriate category.
+2. Give the file a descriptive name.
+3. Check its quality, source, and licensing.
+4. Update the relevant folder README if its documented contents or organization need to change.
+5. Verify any Markdown references to the asset.
+6. Commit the changes with a clear Git commit message.
 
 ---
 
-## 🚀 Best Practices
-
-- Keep filenames consistent and descriptive.
-- Use PNG for diagrams and screenshots when appropriate; use SVG for scalable diagrams when supported by the intended platform.
-- Prefer readable, high-resolution visuals.
-- Keep diagrams uncluttered and labels legible.
-- Avoid unnecessary duplication.
-- Check Markdown and notebook image references after moving files.
-- Add new visuals to the existing category that best fits their purpose.
-
----
-
-## 🎯 Purpose
-
-This library supports the broader AI/ML learning journey by making visual resources easy to find, reuse, and maintain.
-
-**Organize once. Reference anywhere. Keep learning materials clear and consistent.**
+**Part of the AI-ML-Journey repository** — a structured learning journey from programming fundamentals to data science, machine learning, deep learning, and modern AI.
