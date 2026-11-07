@@ -1,63 +1,64 @@
-# 📚 AI & Machine Learning Book Notes
+# Machine Learning — Book Notes
 
-A structured collection of personal study notes, summaries, code examples, and practical implementations based on technical books related to Artificial Intelligence, Machine Learning, Deep Learning, and Software Engineering.
+A structured collection of personal notes, Python implementations, and practical examples from books related to Machine Learning, Artificial Intelligence, and Data Science.
 
-This directory is part of the [AI-ML-Journey](../README.md) repository.
+This section documents my learning through technical books, helping me strengthen theoretical understanding and develop practical machine learning skills.
 
-## 🎯 Objectives
+## Books
 
-- Build a structured technical knowledge base.
-- Strengthen theoretical understanding of AI and Machine Learning.
-- Connect concepts from books with practical Python implementations.
-- Maintain organized notes and executable examples.
-- Track reading progress across multiple technical books.
+| No. | Book | Category | Status |
+|---|---|---|---|
+| 01 | AI and Machine Learning for Coders | AI / ML | In Progress |
+| 02 | Machine Learning Hero | Machine Learning | In Progress |
+| 03 | Machine Learning with Python | Machine Learning / Python | In Progress |
+| 04 | Machine Learning with Python Cookbook | Machine Learning / Python | In Progress |
 
-## 📁 Book Collection
-
-| No. | Book | Focus |
-|---|---|---|
-| 01 | AI and Machine Learning for Coders | Practical AI and ML |
-| 02 | Machine Learning Hero | Machine Learning fundamentals |
-| 03 | Machine Learning with Python | Practical Machine Learning |
-| 04 | AI and Machine Learning in Production | Production ML systems |
-
-## 📂 Book Directory Structure
-
-Each book has its own directory containing two main folders:
-
-| Folder | Purpose |
-|---|---|
-| `Notes/` | Personal notes, explanations, summaries, and important concepts. |
-| `Examples/` | Python code, practical implementations, and experiments based on the book. |
-
-Typical structure:
+## Repository Structure
 
 ```text
-Book-Name/
+17-Book-Notes/
 │
 ├── README.md
-├── Notes/
-└── Examples/
+│
+├── 01-AI-And-Machine-Learning-For-Coders/
+│   ├── README.md
+│   ├── Notes/
+│   └── Examples/
+│
+├── 02-Machine-Learning-Hero/
+│   ├── README.md
+│   ├── Notes/
+│   └── Examples/
+│
+├── 03-Machine-Learning-With-Python/
+│   ├── README.md
+│   ├── Notes/
+│   └── Examples/
+│
+└── 04-Machine-Learning-With-Python-Cookbook/
+    ├── README.md
+    ├── Notes/
+    └── Examples/
 ```
 
-## 📝 Learning Workflow
+## Learning Methodology
 
-1. Read and understand the material.
-2. Write explanations and summaries in `Notes/`.
-3. Implement relevant concepts in `Examples/`.
-4. Test and experiment with the code.
-5. Review previous notes and implementations.
-6. Update reading progress.
+For each book:
 
-## 📌 Documentation Guidelines
+1. Read and understand the concepts.
+2. Create structured notes in the `Notes/` directory.
+3. Implement relevant examples in the `Examples/` directory.
+4. Experiment with code and explore variations.
+5. Document important observations and practical takeaways.
 
-- Write notes in your own words.
-- Keep notes organized and easy to navigate.
-- Include meaningful explanations with code examples.
-- Use descriptive filenames.
-- Add references to original sources when appropriate.
-- Respect copyright; do not reproduce substantial portions of published books.
+## Goals
 
----
+- Build strong foundations in machine learning and AI.
+- Improve Python programming and implementation skills.
+- Connect theoretical concepts with practical applications.
+- Develop reusable code examples.
+- Maintain organized, long-term technical learning documentation.
 
-*Part of the AI-ML-Journey repository — learning, documenting, and implementing AI/ML concepts.*
+## Disclaimer
+
+These are personal learning notes and independent implementations. Original book content, text, and intellectual property belong to their respective authors and publishers.
