@@ -11,9 +11,9 @@
 | Section                                 | Status        |
 | --------------------------------------- | ------------- |
 | Chapter 1 — Introduction to AI & ML     | ✅ Completed |
-| Chapter 2 — Python for Machine Learning | ✅ Completed |
-| Chapter 3 — Working with Data           | 🟡 In progress |
-| Chapter 4 — Supervised Learning         | 🟡 In progress |
+| Chapter 2 — Python for Machine Learning | 🟡 In Progress |
+| Chapter 3 — Working with Data           | ⬜ Not Started |
+| Chapter 4 — Supervised Learning         | ⬜ Not Started |
 | Chapter 5 — Unsupervised Learning       | ⬜ Not Started |
 | Chapter 6 — Deep Learning               | ⬜ Not Started |
 | Chapter 7 — NLP                         | ⬜ Not Started |
@@ -56,45 +56,45 @@
 
 ### 📚 Topics
 
-* [✅] Python Basics for AI
-* [✅] Python Libraries and Tools
-* [✅] Introduction to NumPy
-* [✅] Introduction to Pandas
-* [✅] Introduction to Matplotlib
-* [✅] Writing Your First Python Script for Data Analysis
+* [🟡] Python Basics for AI
+* [🟡] Python Libraries and Tools
+* [🟡] Introduction to NumPy
+* [🟡] Introduction to Pandas
+* [🟡] Introduction to Matplotlib
+* [🟡] Writing Your First Python Script for Data Analysis
 
 ### 🧪 Practice
 
-* [✅] NumPy array operations
-* [✅] Pandas DataFrame operations
-* [✅] Basic data analysis
-* [✅] Create first Matplotlib visualization
-* [✅] Build a small data-analysis script
+* [🟡] NumPy array operations
+* [🟡] Pandas DataFrame operations
+* [🟡] Basic data analysis
+* [🟡] Create first Matplotlib visualization
+* [🟡] Build a small data-analysis script
 
-**Status:** ✅ Completed
+**Status:** 🟡 In Progress
 
----
+--- 
 
 # 3. Working with Data in Python
 
 ### 📚 Topics
 
-* [✅] Loading Datasets with Pandas
-* [✅] Data Cleaning and Preprocessing in Python
-* [✅] Feature Engineering with Scikit-Learn
-* [✅] Data Visualization with Matplotlib
-* [✅] Data Visualization with Seaborn
+* [ ] Loading Datasets with Pandas
+* [ ] Data Cleaning and Preprocessing in Python
+* [ ] Feature Engineering with Scikit-Learn
+* [ ] Data Visualization with Matplotlib
+* [ ] Data Visualization with Seaborn
 
 ### 🧪 Practice
 
-* [✅] Load CSV dataset
-* [✅] Handle missing values
-* [✅] Remove duplicate data
-* [✅] Handle categorical variables
-* [🟡] Feature scaling
-* [🟡] Feature engineering
-* [🟡] Create statistical visualizations
-* [🟡] Perform exploratory data analysis
+* [ ] Load CSV dataset
+* [ ] Handle missing values
+* [ ] Remove duplicate data
+* [ ] Handle categorical variables
+* [ ] Feature scaling
+* [ ] Feature engineering
+* [ ] Create statistical visualizations
+* [ ] Perform exploratory data analysis
 
 ### 🚀 Mini Project
 
