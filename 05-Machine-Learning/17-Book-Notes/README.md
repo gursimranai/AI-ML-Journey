@@ -6,12 +6,12 @@ This section documents my learning through technical books, helping me strengthe
 
 ## Books
 
-| No. | Book | Category | Status |
-|---|---|---|---|
-| 01 | AI and Machine Learning for Coders | AI / ML | In Progress |
-| 02 | Machine Learning Hero | Machine Learning | In Progress |
-| 03 | Machine Learning with Python | Machine Learning / Python | In Progress |
-| 04 | Machine Learning with Python Cookbook | Machine Learning / Python | In Progress |
+| No. | Book | Author | Category | Status |
+|---|---|---|---|---|
+| 01 | AI and Machine Learning for Coders | Laurence Moroney | AI / ML | In Progress |
+| 02 | Machine Learning Hero | To be verified | Machine Learning | In Progress |
+| 03 | Machine Learning with Python Cookbook | To be verified | Machine Learning / Python | In Progress |
+| 04 | AI and Machine Learning Action | Aniket Jain | AI / ML | In Progress |
 
 ## Repository Structure
 
@@ -30,12 +30,12 @@ This section documents my learning through technical books, helping me strengthe
 │   ├── Notes/
 │   └── Examples/
 │
-├── 03-Machine-Learning-With-Python/
+├── 03-Machine-Learning-With-Python-Cookbook/
 │   ├── README.md
 │   ├── Notes/
 │   └── Examples/
 │
-└── 04-Machine-Learning-With-Python-Cookbook/
+└── 04-AI-And-Machine-Learning-Action/
     ├── README.md
     ├── Notes/
     └── Examples/
@@ -51,9 +51,9 @@ For each book:
 4. Experiment with code and explore variations.
 5. Document important observations and practical takeaways.
 
-## Goals
+## Learning Goals
 
-- Build strong foundations in machine learning and AI.
+- Build strong foundations in Machine Learning and Artificial Intelligence.
 - Improve Python programming and implementation skills.
 - Connect theoretical concepts with practical applications.
 - Develop reusable code examples.
